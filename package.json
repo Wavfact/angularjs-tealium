@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Wavfact/integration-angularjs.git"
+    "url": "git://github.com/Wavfact/angularjs-tealium.git"
   },
   "keywords": [
     "tealium",
@@ -19,9 +19,9 @@
   "author": "Tealium",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Wavfact/integration-angularjs/issues"
+    "url": "https://github.com/Wavfact/angularjs-tealium/issues"
   },
-  "homepage": "https://github.com/Wavfact/integration-angularjs#readme",
+  "homepage": "https://github.com/Wavfact/angularjs-tealium#readme",
   "dependencies": {
     "angular": ">=1.3.0"
   }
