@@ -19,6 +19,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Wavfact/integration-angularjs.git"
+    "url": "git://github.com/Wavfact/angularjs-tealium.git"
   }
 }
