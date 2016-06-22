@@ -7,6 +7,17 @@ Contributors
 
 - https://github.com/Tealium/integration-angularjs/graphs/contributors
 
+#Install
+You can bower install from your commandline:
+```javascript
+bower install 'git://github.com/Wavfact/angularjs-tealium.git'
+```
+or you can add the below to your applications bower.json file:
+
+```javascript
+"angularjs-tealium": "https://github.com/Wavfact/angularjs-tealium.git#",
+```
+
 Providers have the advantage of being available in an application's config block, meaning tealium.js and tealium\_data.js do not need to be modified directly. For example:
 ```javascript
 app.config(function(tealiumProvider) {
